@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: #D5D6D7;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tbody {
+    background-color: #B8D4E3;
+}
+
+thead {
+    background-color: #AC8688;
+}
+
+h2 {
+    color: #5a0c19;
+}
